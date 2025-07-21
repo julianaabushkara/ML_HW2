@@ -1,4 +1,4 @@
-# ML_HW2
+# ml-assignment-music-analysis
 
 **Goal**: Predict if a song is released as a `single` or as part of an `album` (includes `compilation`).
 
